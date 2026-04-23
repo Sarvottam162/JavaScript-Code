@@ -25,3 +25,9 @@ function add(a,b){
     return c;
 }
 console.log(add(3,5));
+
+function greet(name){
+    return `hello ${name} Welcome to my page`;
+}
+console.log(greet("Sagar"));
+
